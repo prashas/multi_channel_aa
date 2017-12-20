@@ -1,0 +1,1 @@
+1. Extract the dataset and fix the resources_rootdir variable in config.py to point to the root folder of the dataset.
